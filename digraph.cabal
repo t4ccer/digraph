@@ -33,7 +33,7 @@ library
         Data.DiGraph.FloydWarshall
         Data.DiGraph.Random
     build-depends:
-        , base >=4.10 && <4.16
+        , base >=4.10 && <4.17
         , containers >=0.5
         , deepseq >=1.4
         , hashable >=1.2
